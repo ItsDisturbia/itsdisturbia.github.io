@@ -1,0 +1,28 @@
+{
+    "text": {
+        "info": [
+            {
+                "title": "Under Construction",
+                "list": [
+                    "Coming soon..."
+                ]
+            }
+        ],
+        "changelog": [
+            {
+                "title": "Launcher Update (v1.0.0) - 02/03/2023",
+                "list": [
+                    "· Improved application performance by more than 20%."
+                ]
+            }
+        ],
+        "rules": [
+            {
+                "title": "Norma",
+                "list": [
+                    "Sin Configurar :/"
+                ]
+            }
+        ]
+    }
+}
