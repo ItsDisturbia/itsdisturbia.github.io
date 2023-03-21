@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>Surreal RP</title>
+      <link rel="stylesheet" href="style.css">
+    </head>
+   <body>
+    <p>Redirecting to <span class="fancy">Surreal RP</span></p>
+   </body>
+   <script>
+      window.location.href = 'fivem://connect/147.189.173.99:30120/';
+   </script>
+</html>
